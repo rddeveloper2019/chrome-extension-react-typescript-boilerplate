@@ -4,7 +4,6 @@ import './options.css';
 
 const test = (
   <div>
-    <p>Hello World</p>
     <img src='icon.png' alt='icon' />
   </div>
 );
